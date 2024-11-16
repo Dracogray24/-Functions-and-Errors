@@ -1,0 +1,92 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_cash",
+						"type": "uint256"
+					}
+				],
+				"name": "AmountRevert",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "CashAssert",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_cash",
+						"type": "uint256"
+					}
+				],
+				"name": "RequiredAmount",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "num",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"OnlineError.sol": "OnlineTransactionError"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"OnlineError.sol": {
+			"keccak256": "0x82930eb245c4cd66c8087e295faef6e9ed57b5d8f3e6544d6012fe39eeab1c83",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1089c74e4161c0094087acea03b4402ed4a2d8e871aaf1894622d60443bc5d9f",
+				"dweb:/ipfs/QmRFj8oTwUVj98ceQiWP2hzSaWPTqsPrTjbanNqCbbMLkU"
+			]
+		}
+	},
+	"version": 1
+}
