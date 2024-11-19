@@ -65,7 +65,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"OnlineError.sol": "OnlineTransactionError"
+			"WinningPick.sol": "Lottery"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -79,12 +79,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"OnlineError.sol": {
-			"keccak256": "0x911181bebf8d18b35d1c08cedc027b95a89676d892725e3bb2fbcc23ff255f63",
+		"WinningPick.sol": {
+			"keccak256": "0x0107c7f28da7d29fb30d7f2b90b4d612007d88298a333d42a6db558751111c3c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://dfce6e35a26be9a3789aae973ffa489e982e8ea5a4bac79788cf224d9c91718d",
-				"dweb:/ipfs/QmUR6vQZhPTHjtWS7LRqDJZi3KzScuaCiqSQzdMAfKvCzx"
+				"bzz-raw://db24d476f93482d75a85cf11f4f3c210273e1e460f407962eece8f2d6f9ba1fe",
+				"dweb:/ipfs/QmeL7owUNJk7KS7tANoUB16f8x9JNGhT6P2NAXUnjDk1Eo"
 			]
 		}
 	},

@@ -65,7 +65,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"OnlineError.sol": "OnlineTransactionError"
+			"OnlineError.sol": "LuckyNumberP"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -80,11 +80,11 @@
 	},
 	"sources": {
 		"OnlineError.sol": {
-			"keccak256": "0x911181bebf8d18b35d1c08cedc027b95a89676d892725e3bb2fbcc23ff255f63",
+			"keccak256": "0xc48caa2fecc34953facfa0cabb9e1939cb9109161c931650c941d49c3d76e9a1",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://dfce6e35a26be9a3789aae973ffa489e982e8ea5a4bac79788cf224d9c91718d",
-				"dweb:/ipfs/QmUR6vQZhPTHjtWS7LRqDJZi3KzScuaCiqSQzdMAfKvCzx"
+				"bzz-raw://c3c57f2981f2899fcae61913dfc3bc1847fdec5743f57861ece264e7432682b8",
+				"dweb:/ipfs/QmNcm1fL8q7eHhtzUHRynZHKKpeYMgQbLhTgENhsycXNsQ"
 			]
 		}
 	},

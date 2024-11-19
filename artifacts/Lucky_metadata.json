@@ -65,7 +65,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"OnlineError.sol": "OnlineTransactionError"
+			"OnlineError.sol": "Lucky"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -80,11 +80,11 @@
 	},
 	"sources": {
 		"OnlineError.sol": {
-			"keccak256": "0x911181bebf8d18b35d1c08cedc027b95a89676d892725e3bb2fbcc23ff255f63",
+			"keccak256": "0xdfceb5aefa21d3ce8a83b3e0d7bb0e6528968e634262817784935c09aafcba1a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://dfce6e35a26be9a3789aae973ffa489e982e8ea5a4bac79788cf224d9c91718d",
-				"dweb:/ipfs/QmUR6vQZhPTHjtWS7LRqDJZi3KzScuaCiqSQzdMAfKvCzx"
+				"bzz-raw://6dd358b65427267794bf01784ef950cd95218dac12e98c972a2dbd9afcdb09c4",
+				"dweb:/ipfs/QmR6b2buZSDT7iJWQSKKQZYTmE1efDFA4P38kQ1DFRUPM5"
 			]
 		}
 	},
