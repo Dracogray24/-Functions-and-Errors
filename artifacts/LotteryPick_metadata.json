@@ -80,11 +80,11 @@
 	},
 	"sources": {
 		"WinningPick.sol": {
-			"keccak256": "0xd01ade664654ae675ac16ada3676df8999a28dfb59abb4ac324e1dcb64cc8da1",
+			"keccak256": "0x32a3ad65de00d8f96ffc5b4fe4a43b2ca05542b79099b414f063891cd1d917c4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8f2507f1be5fbeb7a06c7e3bfbf6f5b650bf4f320ff5ee6e5c8fb91ebe011bea",
-				"dweb:/ipfs/QmfFtzfthUzBWeKbEaMTQtzRtsHyFxbmn6ayLMwe4cDQ3G"
+				"bzz-raw://c8c4b9c7ac9e41aa827c200e7a64a3ccd6483307596a0cbd59c580d702c4a553",
+				"dweb:/ipfs/QmP3rJTEMfUHkzk8fXnK5L6dF5dVPBqqRZ2439H5UxmaLH"
 			]
 		}
 	},
